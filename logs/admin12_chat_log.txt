@@ -1,0 +1,11 @@
+Chat log for user: admin12
+2024-01-24 15:15:57 - admin12: Hallo
+2024-01-24 15:15:57 - Bot: Hallo wie kann ich dir im Bezug aufs Pius helfen?
+2024-01-24 15:16:31 - admin12: Hallo
+2024-01-24 15:16:31 - Bot: Hallo wie kann ich dir im Bezug aufs Pius helfen?
+2024-01-25 14:56:23 - admin12: Hallo
+2024-01-25 14:56:23 - Bot: Hallo wie kann ich dir im Bezug aufs Pius helfen?
+2024-01-25 16:37:07 - admin12: hallo
+2024-01-25 16:37:07 - Bot: Hey wie kann ich helfen?
+2024-04-07 13:46:10 - admin12: hallo
+2024-04-07 13:46:10 - Bot: Hey wie kann ich helfen?
